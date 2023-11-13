@@ -15,13 +15,12 @@ class LevelSeeder extends Seeder
     {
         Level::create([
             'name' => 'A1'
-        ]);
-        Level::create([
+        ]);Level::create([
             'name' => 'A2'
         ]);Level::create([
             'name' => 'B1'
         ]);Level::create([
-            'name' => 'B2"'
+            'name' => 'B2'
         ]);Level::create([
             'name' => 'C1'
         ]);Level::create([
